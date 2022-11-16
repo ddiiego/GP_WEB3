@@ -1,0 +1,22 @@
+.container {
+ margin: auto;
+ max-width: 500px;
+ font-family: 'Open sans', 'sans-serif';
+}
+
+.main {
+    margin: auto;
+    max-width: 400px;
+}
+
+.icones img {
+    width: 20px;
+}
+
+.me {
+    text-decoration: none;
+    color: orangered;
+}
+.main img {
+    width: 400px;
+}
